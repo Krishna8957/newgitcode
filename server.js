@@ -1,1 +1,2 @@
-console.log("hello world");
+console.log("this is the home page but not worke");
+
